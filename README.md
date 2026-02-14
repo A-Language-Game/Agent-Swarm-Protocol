@@ -1,2 +1,2 @@
-# Agent-Swarm-Protocol
+# Agent Swarm Protocol (ASP)
 An open protocol that enables seamless integration between AI Agents.
